@@ -1,3 +1,14 @@
+# AntStack FrontEndDeveloper Task
+- You can run this repo by cloning in your local machine
+- Open repo in VScode(recommend)
+- Open terminal
+- run command
+### `npm start`
+- NOTE : install node js
+- you can change csv file data available at src/assets/ folder
+- NOTE : csv file name should be data.csv
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
